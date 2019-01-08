@@ -1,1 +1,8 @@
-##Simple To Do React App
+Prerequisites
+In order to run this project node.js and npm both need to have been installed.
+
+Deployment
+Clone this repo
+Run npm start from react-express-example to start the Express app
+Run npm start from the client directory to start the React app
+Visit http://localhost:3000/
